@@ -11,10 +11,12 @@
 -->
 
 [![Project generated with PyScaffold](https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold)](https://pyscaffold.org/)
+[![ReadTheDocs](https://readthedocs.org/projects/ecgen/badge/?version=latest)](https://ecgen.readthedocs.io/en/stable/)
+[![Coveralls](https://img.shields.io/coveralls/github/luk036/ecgen/main.svg)](https://coveralls.io/r/luk036/ecgen)
 
 # ecgen
 
-> Add a short description here!
+> Enumerative Combinatric Generation
 
 A longer description of your project goes here...
 
